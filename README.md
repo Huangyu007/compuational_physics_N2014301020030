@@ -7,3 +7,4 @@
 #### [exercise 6 :精确打击问题](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E7%B2%BE%E7%A1%AE%E6%89%93%E5%87%BB.md)
 #### [exercise 7 :摆](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E6%91%86.md)
 #### [exercise 8 :摆2](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E6%91%862.md)
+#### [exercise 9 :碰撞](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E7%A2%B0%E6%92%9E.md)
