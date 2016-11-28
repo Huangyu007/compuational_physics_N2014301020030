@@ -8,3 +8,4 @@
 #### [exercise 7 :摆](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E6%91%86.md)
 #### [exercise 8 :摆2](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E6%91%862.md)
 #### [exercise 9 :碰撞](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E7%A2%B0%E6%92%9E.md)
+#### [exercise 10 :天体运动](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E5%A4%A9%E4%BD%93%E8%BF%90%E5%8A%A8.md)
