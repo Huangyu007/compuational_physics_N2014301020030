@@ -1,17 +1,19 @@
+#### 此次我们研究的是电场和电势的问题
+#### 公式推导如下
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E6%88%AA%E5%9B%BE20161211201607.png)
-
+#### 首先考虑四方边界
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211194325.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211194359.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211194410.png)
-
+#### 再考虑由两个异号点电荷的情况
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195055.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195042.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195105.png)
-
+#### 最后考虑三块带电平板的情况
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195804.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195732.png)
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20161211195722.png)
-
+##### 由以上的模拟，电势的变化规律确实符合沿电场线的方向减小
 ``` python
 import numpy as np
 from pylab import *
@@ -117,3 +119,4 @@ title('electric field')
 savefig('electric field J.png')
 show()
 ```
+#### 参考了郭潇学长的代码
