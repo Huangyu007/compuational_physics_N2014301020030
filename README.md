@@ -10,3 +10,4 @@
 #### [exercise 9 :碰撞](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E7%A2%B0%E6%92%9E.md)
 #### [exercise 10 :天体运动](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/%E5%A4%A9%E4%BD%93%E8%BF%90%E5%8A%A8.md)
 #### [exercise 11 :hy](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/hy.md)
+#### [exercise 12 :potential and field](https://github.com/Huangyu007/compuational_physics_N2014301020030/edit/master/potential%20and%20field.md)
