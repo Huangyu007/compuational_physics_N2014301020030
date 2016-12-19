@@ -12,3 +12,4 @@
 #### [exercise 11 :hy](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/hy.md)
 
 ####[exercise 12 :potential and field](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/potential%20and%20field.md)
+#### [exercise 13:]这次作业还未完成，我会尽快补上
