@@ -13,3 +13,4 @@
 
 ####[exercise 12 :potential and field](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/potential%20and%20field.md)
 #### [exercise 13:]这次作业还未完成，我会尽快补上
+#### [期末论文 randon walk](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/random%20walk.md)
