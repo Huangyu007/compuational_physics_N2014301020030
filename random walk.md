@@ -1,5 +1,6 @@
 #### 一、摘要
 ###### 本次是用计算机来模拟随机过程，此次研究的主要内容是随机行走，即让质点在一个空间里向各个方向随机的移动，观察其最后的位置离远点的距离随时间变化的关系
+![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/3874109ca75a96966ea9c0e479455003.jpg)
 #### 二、作业内容
 ##### 1.一维随机行走
 ![github](https://github.com/Huangyu007/compuational_physics_N2014301020030/blob/master/QQ%E6%88%AA%E5%9B%BE20170107202132.png)
